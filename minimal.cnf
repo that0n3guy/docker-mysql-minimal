@@ -28,4 +28,4 @@ binlog_cache_size=4K
 binlog_stmt_cache_size=4K
 
 #largest impact (50% memory) not recommended though
-#performance_schema=off
+performance_schema=off
