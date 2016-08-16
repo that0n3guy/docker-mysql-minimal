@@ -27,5 +27,5 @@ innodb_sort_buffer_size=64K
 binlog_cache_size=4K
 binlog_stmt_cache_size=4K
 
-#largest impact (50% memory)
-performance_schema=off
+#largest impact (50% memory) not recommended though
+#performance_schema=off
